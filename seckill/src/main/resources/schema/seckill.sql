@@ -11,7 +11,7 @@
 #
 # **********************************************************************
 
-CREATE DATABASE seckill;
+#CREATE DATABASE seckill;
 
 USE seckill;
 
